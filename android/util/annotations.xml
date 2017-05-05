@@ -1,0 +1,5 @@
+<root>
+    <item name='android.util.Printer'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
